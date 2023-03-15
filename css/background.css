@@ -55,3 +55,6 @@
     rgba(109, 186, 130, 0.1) 100%
   );
 }
+.vpower.txt-right {
+  display: none;
+}
